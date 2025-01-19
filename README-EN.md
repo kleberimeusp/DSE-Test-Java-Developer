@@ -99,6 +99,8 @@ stmt.setString(1, username);
 
 ## 5. Diagnosing and optimizing a batch process
 
+![Data Diagram](img/p-05.png)
+
 - **Identify bottlenecks using logs and profiling**
 - **Optimize SQL queries (indexing, efficient joins)**
 - **Improve execution logic using multithreading**

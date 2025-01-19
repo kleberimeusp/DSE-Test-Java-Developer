@@ -99,6 +99,8 @@ stmt.setString(1, username);
 
 ## 5. Diagnóstico e otimização de um processo batch
 
+![Diagrama de Dados](img/p-05.png)
+
 - **Identificar gargalos com logs e profiling**
 - **Otimizar consultas SQL (indexação, joins eficientes)**
 - **Melhorar a execução lógica usando multithreading**
