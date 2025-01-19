@@ -4,7 +4,7 @@ Este repositório contém um teste para desenvolvedores Java, abordando aspectos
 
 ## Estrutura
 
-O repositório inclui dois arquivos de README, paras as respotas, um para português e outro para inglês:
+O repositório inclui dois arquivos de README, para as respostas, um em português e outro em inglês:
 
 - 📜 [README em Português](README-PT.md)
 - 🌎 [README in English](README-EN.md)
